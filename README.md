@@ -1,7 +1,3 @@
-# RESUME 1 — SENIOR OPERATIONS & HR ROLE
-
----
-
 ## ANIKA KOH (Koh Fui Zin)
 
 Kuala Lumpur, Malaysia | +6013 941 5034 | anika13141@gmail.com
