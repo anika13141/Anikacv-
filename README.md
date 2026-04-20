@@ -170,6 +170,10 @@
 <div class="print-note">
   📄 <strong>To save as PDF:</strong> Press <strong>Ctrl + P</strong> (Windows) or <strong>Cmd + P</strong> (Mac) → Destination → <strong>Save as PDF</strong>. This yellow note won't appear in the PDF.
 </div>
+
+<!-- ============================================ -->
+<!-- RESUME 1: OPERATIONS & HR -->
+<!-- ============================================ -->
 <div class="sheet">
   <div class="header">
     <img src="https://vascco.my/wp-content/uploads/2026/04/Untitled-design_20260402_090432_0000.jpg"
